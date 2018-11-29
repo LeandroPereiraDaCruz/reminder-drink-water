@@ -7,7 +7,7 @@ A slack bot to reminder us to drink water.
 Add the environment variable with the slack incoming web hook.
 Ex:
 ```
-SLACK_URL=**************
+SLACK_URL=https://hooks.slack.com/services/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
 ```
 ## INSTALL
 ```
