@@ -1,7 +1,7 @@
 require('dotenv').config();
 const axios = require('axios');
 
-const SLACK_URL = "https://hooks.slack.com/services/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"; //process.env.SLACK_URL;
+const SLACK_URL = process.env.SLACK_URL;
 
 let arrayDrink = [
     'Beba água agora!',
