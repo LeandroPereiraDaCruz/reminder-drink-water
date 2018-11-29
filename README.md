@@ -1,7 +1,7 @@
 # Reminder drink water
 A slack bot to reminder us to drink water.
 
-![image](https://media.giphy.com/media/WGFdv6kbikBq0/giphy.gif)
+![image](https://media.giphy.com/media/C5FF4MXa3YjAI/giphy.gif)
 
 ## SETUP
 Add the environment variable with the slack incoming web hook.
