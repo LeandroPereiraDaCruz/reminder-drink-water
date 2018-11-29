@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+cd "$(dirname "$0")"
+
+export NVM_DIR="/home/leandro/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" 
+
+echo "==> Running at $(date +%d/%m/%Y-%H:%M)"
+
+npm start
