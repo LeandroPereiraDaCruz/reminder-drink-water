@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const SLACK_URL = process.env.SLACK_URL;
 
-let arrayDrink = [
+const arrayDrink = [
     'Beba água agora!',
     'Hora de beber água!',
     'Tô te lembrando pra bebê mais água!',
@@ -32,8 +32,8 @@ let arrayDrink = [
     '> O coração ingrato assemelha-se ao deserto que sorve com avidez a água do céu e não produz coisa alguma.'
 ]
 
-let randomDrink = arrayDrink[Math.floor(Math.random() * arrayDrink.length)];
+const randomDrink = arrayDrink[Math.floor(Math.random() * arrayDrink.length)];
 
 axios.post(SLACK_URL, {
-    text: "<!here> " + randomDrink
+    text: `<!here>\n${randomDrink}`
 });
