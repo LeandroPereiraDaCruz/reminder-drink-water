@@ -17,6 +17,26 @@ const arrayDrink = [
     'Tem gente que é ruim até pra beber água',
     'Do portugûes: Água, do inglês: water, do espahol: agua, do italiano: acqua, do russo: вода',
     'Tô até vendo você só ler e ignorar',
+    'Uma pessoa normal tem que dormir 8 horas por dia, beber 3 litros de água e ter uma vida sexual ativa. Eu bebo água!',
+    'Até no fundo do poço poda ter sombra e água fresca',
+    'Hoje vou beber tanta água, que vou acabar mergulhando nos meus próprios pensamentos',
+    'Quem nunca bebeu água na xícara porque estava com preguiça de lavar a louça?',
+    'Só não chuto o balde, porque pode haver água dentro',
+    'Quando alguns pingos de água caírem na brisa do teu rosto, tocar os teus lábios e cair não chão. Deixe tudo como está e corre que é chuva',
+    'Quando preciso de você, você foge igual água. sai vazado',
+    'Beber água é tão delicioso que dá água na boca',
+    'Você não é óleo, pra não juntar-se com a água',
+    'Melhor cantada: Garota, se beleza fosse água, você seria um oceano',
+    'Bebendo água? Não, não, estou cheirando o copo!',
+    'Se colocar água no gelo, o gelo fica aguado ou a água fica gelada?',
+    'O carro movido a hidrogênio vai ser um grande divisor de águas',
+    'Sortudo é o copo, que beija na minha boca todo dia quando vou beber água',
+    'Um homem pergunta ao outro: Você toma água? Não, não, eu injeto direto na veia',
+    'O vinho mais caro não serve pra nada quando a sede é de água',
+    'As moléculas de água quando congelam viram duréculas?',
+    'Uma dica para você que ta na seca: bebe água',
+    'Se existisse um país chamado água, só teria três estados',
+    'Se corpo é 70% água, então eu não estou gordo, estou inundado',
     'Tá ignorando porque? bebe aí',
     'Bebe até ficar encharcado',
     'Hidrate-se!',
@@ -102,7 +122,9 @@ const arrayDrink = [
     '> Uma paixão tão completamente centrada em si recusa o resto do mundo tal como a água límpida e calma filtra todas as matérias estranhas.',
     '> Eu componho de acordo com as circunstâncias em que estou envolvido, seja de ácido ou na água.',
     '> A água turva não mostra os peixes ou conchas em baixo; o mesmo faz a mente nublada.',
-    '> O coração ingrato assemelha-se ao deserto que sorve com avidez a água do céu e não produz coisa alguma.'
+    '> O coração ingrato assemelha-se ao deserto que sorve com avidez a água do céu e não produz coisa alguma.',
+    '> O amor é um mergulho nas profundas águas da paixão',
+    '> Pra que se deve ferver a água antes de bebê-la? Porque não dá pra ferver depois de beber!  Chiquinha - Chaves'
 ]
 
 const randomDrink = arrayDrink[Math.floor(Math.random() * arrayDrink.length)];
