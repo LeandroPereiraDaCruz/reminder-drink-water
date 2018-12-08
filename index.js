@@ -49,6 +49,19 @@ const arrayDrink = [
     'O jumento e o cavalinho, eles nunca andam só, quando sai pra passear, leva uma aguinha pocotó',
     'Bilu bilu bilu, bilu tetéia, água é mió do que geléia',
     'Vamos brincar de burro bebe água?',
+    'Economize água, tá achando que água cai do céu?',
+    'Neste calor a água vai que nem água',
+    'H2O + CO + CO: água de coco?',
+    'Por que bolacha de água e sal não é molhado?',
+    'Descobri que meu celular tem bluetooth. Ele caiu na água e fez bluu tufff',
+    'Sabe porque o mar é azul? Porque os peixinhos fazem: blue, blue, blue',
+    'H2O51: Água Ardente',
+    'Você sabia que se esfregar uma lâmpada mágica debaixo d\'água sai um hidrogênio?',
+    'Você acha que é esperto, mas derruba metade da água da forminha de gelo quando leva ao congelador',
+    'Água potável: Aquela que pode ser guardada num pote',
+    'Tempestade em copo d\'água é pouco... Eu faço é dilúvio em tampinha de xarope',
+    'Chuck Norris assovia debaixo d\'água',
+    'Evite uma vida sedentária... beba água',    
     'No alto daquele cume, plantei uma roseira, só pra ver você, beber água da torneira. Achou que ía ser outra coisa né?',
     'Era uma casa muito engraçada, não tinha teto, não tinha água',
     'Se fosse pinga você bebia né?',
@@ -124,7 +137,9 @@ const arrayDrink = [
     '> A água turva não mostra os peixes ou conchas em baixo; o mesmo faz a mente nublada.',
     '> O coração ingrato assemelha-se ao deserto que sorve com avidez a água do céu e não produz coisa alguma.',
     '> O amor é um mergulho nas profundas águas da paixão',
-    '> Pra que se deve ferver a água antes de bebê-la? Porque não dá pra ferver depois de beber!  Chiquinha - Chaves'
+    '> Pra que se deve ferver a água antes de bebê-la? Porque não dá pra ferver depois de beber!  Chiquinha - Chaves',
+    '> Tá vendo Chaves, quanta água? Sim, e tem mais por baixo!  Chaves',
+    '> Boas pessoas são como água: pura, doce e essencial em nossas vidas!'
 ]
 
 const randomDrink = arrayDrink[Math.floor(Math.random() * arrayDrink.length)];
